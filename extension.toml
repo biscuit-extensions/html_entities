@@ -1,0 +1,7 @@
+[extension]
+id = "html_entities"
+name = "Html Entities"
+version = "0.1.0"
+description = "Html Entities extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
